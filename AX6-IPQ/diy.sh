@@ -11,7 +11,7 @@ function git_sparse_clone() {
 
 # Add packages
 #添加科学上网源
-git clone --depth 1 https://github.com/fw876/helloworld package/helloworld
+git clone --depth 1 https://github.com/fw876/helloworld package/ssr-plus
 #git_sparse_clone main https://github.com/fw876/helloworld shadowsocks-rust
 #git_sparse_clone main https://github.com/fw876/helloworld shadowsocksr-libev
 #git clone --depth 1 https://github.com/xiaorouji/openwrt-passwall-packages package/openwrt-passwall-packages
