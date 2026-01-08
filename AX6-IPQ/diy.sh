@@ -26,6 +26,7 @@ git_sparse_clone main https://github.com/kiddin9/kwrt-packages luci-app-zerotier
 git_sparse_clone main https://github.com/kiddin9/kwrt-packages vlmcsd
 git_sparse_clone main https://github.com/kiddin9/kwrt-packages luci-app-vlmcsd
 #git_sparse_clone main https://github.com/kiddin9/kwrt-packages luci-app-socat
+git_sparse_clone main https://github.com/kiddin9/kwrt-packages gecoosac
 git_sparse_clone main https://github.com/kiddin9/kwrt-packages luci-app-gecoosac
 
 # 替换luci-app-openvpn-server imm源的启动不了服务！
