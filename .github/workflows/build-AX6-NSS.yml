@@ -1,7 +1,8 @@
 name: Build OpenWRT for AX6-NSS
 
 on:
-  workflow_dispatch:
+  workflow_run:
+    - cron: 0 20 * * 0
 
 env:
   REPO_URL: https://github.com/VIKINGYFY/immortalwrt.git
