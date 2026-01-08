@@ -176,7 +176,7 @@ jobs:
           IP: 192.168.10.1
           账户: root
           密码: 空
-          软件包：passwall、zerotier、ttyd、gecoosac
+          软件包：passwall、zerotier、mosdns、gecoosac、ddnsgo
           
     - name: Delete old releases
       uses: dev-drprasad/delete-older-releases@master
